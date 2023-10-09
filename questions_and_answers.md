@@ -20,7 +20,7 @@ console.log(greetign);
 
 #### Answer: ?
 
-<i>Write your explanation here</i>
+<i>B</i>
 
 </p>
 </details>
