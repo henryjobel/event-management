@@ -20,7 +20,8 @@ console.log(greetign);
 
 #### Answer: ?
 
-<i>Write your explanation here</i>
+<i>The Correct ans is B here is the Typo in greetign causes ReferenceError.
+ </i>
 
 </p>
 </details>
@@ -45,7 +46,8 @@ sum(1, "2");
 
 #### Answer: ?
 
-<i>Write your explanation here</i>
+<i>The correct ans is B:type error. String cannot be directly added to a number, causing a TypeError.
+</i>
 
 </p>
 </details>
@@ -71,7 +73,12 @@ console.log(food);
 
 #### Answer: ?
 
-<i>Write your explanation here</i>
+<i>The Correct ans is A: the array food remains unchanged only object property favoriteFood is modified.
+
+
+
+
+ </i>
 
 </p>
 </details>
@@ -96,7 +103,8 @@ console.log(sayHi());
 
 #### Answer: ?
 
-<i>Write your explanation here</i>
+<i>the correct ans is b here is the function expects name argument but none provided resulting in undefined.
+</i>
 
 </p>
 </details>
@@ -124,7 +132,7 @@ console.log(count);
 
 #### Answer: ?
 
-<i>Write your explanation here</i>
+<i>The correct ans c is becouse the code counts non-zero values in nums array using forEach loop resulting in count being 3.</i>
 
 </p>
 </details>
